@@ -1,0 +1,79 @@
+         DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING 
+                                                                                   CMR INSTITUTE OF TECHNOLOGY
+                                                                       (Approved by AICTE, Affiliated to JNTU, Hyderabad)
+                                                                               Kandlakoya , Medchal road, Hyderabad.
+                                                                                            2020-2021
+
+                                 TRAVELS WEBSITE
+          submitted by     
+                          
+                                B.SOWJANYA   (17R01A05C6)
+
+                                K.HARIPRIYA  (17R01A05D7)
+
+                                CH.JAHNAVI   (17R01A0573)
+
+                                K.RAJESHWARI (17R01A0530)
+
+                              Under the Guidance Of
+                                                                                                   Mr. Thandu Nagaraju
+                                                                                                   (Associate Professor)
+
+2.LIST OF CONTENTS
+
+Sl.no          Content 	                              page no                                                                      
+1.      Abstract                                          2 
+2.	Introduction	                                  3
+3.	Problem Statement	                          4
+4.	Existing Statement	                          4        
+5.	Proposed System	                                  5
+6.	Technologies Used	                          6        
+7.	Front End	                                  7
+8.	Back End	                                  7
+9.      Data Base                                         7
+
+
+1.ABSTRACT
+   Travels website is a web based project where a user may search and apply for a package.
+The system allows the user to check various tours packages and choose his package accordingly.
+The software system checks for users choice and then queries the database for various available packages to that destination.
+The system then loads all that data and puts those choices in front of the user.
+2.INTRODUCTION
+   The Travel Portal provides online booking facilities to customers or end users visiting the website. Hotel booking in domestic and international hotels, Bus booking engine using which a user can book a bus to travel  from one location to another. Visit The Travels website for a hassle free booking experience
+3.PROBLEM STATEMENT
+   The purpose of website is established fact that Internet users are increasing today. One of the main purposes of the website is to facilitate the offline customer online because customers cannot spend their precious time in markets trying to find out the best deal.
+4.EXISTING SYSTEM
+        In general if any user plans for tour they must consult the travel agency for purchasing the package. At the same time the user have to book the hotels and other travel reservations from destination to other places. It takes a lot of manual work and the user wants to be in a queue for the reservations. To avoid these problems we are developing a project.
+Disadvantages :
+->It takes more time to book a ticket
+->It requires reliable internet connection
+->It requires large database
+5.PROPOSED SYSTEM
+   This travels website project will enable the user to book the tickets. The user shall login to the website and check for availability of  places. the user can specify the type of services which are provided by website. The user can make payment online. The tool is designed using PHP. All the data regarding the tickets are stored in MYSQL database. The user has to enter his/her name, Email details and check for the availability of  tickets.
+Advantages :
+->Takes less time
+->All types of information is available when the system is online
+->Helps in reducing the file work
+->Easy payment method
+->System is fully integrated
+6.TECHNOLOGIES USED
+  ->HTML-5
+
+  ->CSS 3
+
+  ->JavaScript
+
+  ->PhP- Codeignitor My sql
+
+  ->Xampp
+
+  ->Text Editor: Atom
+7.FRONT END
+   For the front end we are going with traditional HTML CSS and JAVASCRIPT
+8.BACK END
+   We have gone with PHP as our scripting language for backend. We are not using pure php, instead we have gone with a popular php framework known as CodeIgniter
+9.DATA BASE
+   While the Database will be MySql which requires no explanation as it is extremely reliable.
+
+
+
